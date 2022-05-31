@@ -12,7 +12,7 @@ Projeto implementado em React Native, com a tela de detalhes da cesta do e-comme
 * Componentes React Native: componentes já existentes básicos da tecnologia para compor a tela
 Text: componente para exibir textos
 
-**View: container para blocos de componentes
+###View: container para blocos de componentes
 
 ScrollView: container para blocos de componentes com barra de rolagem
 
