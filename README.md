@@ -10,9 +10,9 @@ Projeto implementado em React Native, com a tela de detalhes da cesta do e-comme
 
  Expo Go: tecnologia usada para exibir o desenvolvimento da pagina no celular
  
- Componentes React Native: componentes já existentes básicos da tecnologia para compor a tela
+ Componentes React Native: componentes já existentes da tecnologia para compor a tela
  
-* Text: componente para exibir textos
+* Text: componente para exibir os textos
 * View: container para blocos de componentes
 * ScrollView: container para blocos de componentes com barra de rolagem
 * Image: componente para exibir imagens
@@ -21,7 +21,7 @@ Projeto implementado em React Native, com a tela de detalhes da cesta do e-comme
 
 Componentes customizados: criação e utilização de componentes customizados
 
-Suporte a telas: não permitir que conteúdos estejam sob a StatusBar (barra superior nativa) ou barra de gestos do iPhone
+Suporte a telas: permitir que conteudo exibido funcione tanto em IOS quanto em Android.
 
 Expo Google Fonts: suporte a fontes do google via Expo
 
