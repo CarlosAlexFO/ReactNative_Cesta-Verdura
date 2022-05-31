@@ -21,7 +21,7 @@ Projeto implementado em React Native, com a tela de detalhes da cesta do e-comme
 
 Componentes customizados: criação e utilização de componentes customizados
 
-Suporte a telas: permitir que conteudo exibido funcione tanto em IOS quanto em Android.
+Suporte a telas: permitir que conteudo exibido funcione tanto em IOS quanto em Android
 
 Expo Google Fonts: suporte a fontes do google via Expo
 
