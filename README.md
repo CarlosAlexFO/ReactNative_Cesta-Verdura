@@ -6,9 +6,6 @@ Página mobile criada utilizando React Native
 
 
 
-
-
-
 # Demonstração da página:
 
 
